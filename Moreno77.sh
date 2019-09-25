@@ -21,8 +21,8 @@ red='\e[1;31m'
 cowsay -f eyes "Moreno77" | lolcat
 figlet -f slant "Moreno77" | lolcat
 echo "    <=====================[]====================>" | lolcat
-echo "    <=====[       Tools By Moreno77       ]=====>" | lolcat
-echo  "    <=====[  Concact Me : +6285606753071  ]=====>" | lolcat
+echo "    <=====[       Tools By More           ]=====>" | lolcat
+echo  "    <=====[  Concact Me : +62           ]=====>" | lolcat
 echo "    <=====================[]====================>" | lolcat
 
 sleep 1
